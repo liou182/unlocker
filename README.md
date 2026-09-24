@@ -1,5 +1,5 @@
 # macOS Unlocker V4 for VMware Workstation
- 
+ 适用于VMware Workstation的macOS解锁器V4
 > [!IMPORTANT]
 > 
 > The Unlocker project is now considered complete. What does this mean?
